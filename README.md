@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Harld9/Harld9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-size: 1.1rem;">
+  🎓 Étudiant en première année d'informatique chez Ynov Campus Sophia.
+  <br/>
+  <b>Objectif : Intelligence Artificielle & Big Data.</b>
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harld9&theme=react-dark&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,html,css,git,github&theme=dark" alt="My Skills" />
+</a>
+
+</div>
