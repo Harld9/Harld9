@@ -13,7 +13,7 @@
 <br/><br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,html,css,git,github&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=go,mysql,linux,git,github,js,nodejs,html,css&theme=dark" alt="My Skills" />
 </a>
 
 </div>
