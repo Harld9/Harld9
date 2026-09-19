@@ -6,10 +6,6 @@
   <b>Objectif : Intelligence Artificielle & Big Data.</b>
 </p>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harld9&theme=react-dark&hide_border=true" width="100%"/>
-
 <br/><br/>
 
 <a href="https://skillicons.dev">
