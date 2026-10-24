@@ -6,23 +6,22 @@
 
 **Goal: Data Engineering & AI**
 
-<br/>
+
 
 ---
 
 ### 🛠️ What I Use
 
-<br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,linux,bash,git&theme=dark" alt="Python, PostgreSQL, FastAPI, Linux, Bash, Git" />
 </a>
 
-<br/><br/>
+<br/>
 
 ### 💻 Previously Used
 
-<br/>
+
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,ts,redux,materialui,js,nodejs,mysql,go,java&theme=dark" alt="React, TypeScript, Redux, Material UI, JavaScript, Node.js, MySQL, Go, Java" />
