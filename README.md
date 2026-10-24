@@ -1,15 +1,25 @@
 <div align="center">
 
-<p style="font-size: 1.1rem;">
-  🎓 Étudiant en première année d'informatique chez Ynov Campus Sophia.
+<p>
+  🎓 Second-year Computer Science student at Ynov Campus Sophia, specializing in Data & AI.
   <br/>
-  <b>Objectif : Intelligence Artificielle & Big Data.</b>
+  <b>Goal: Data Engineering & AI.</b>
 </p>
+
+<br/>
+
+<b>What I use</b>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,linux,bash,git&theme=dark" alt="Python, PostgreSQL, FastAPI, Linux, Bash, Git" />
+</a>
 
 <br/><br/>
 
+<b>Also worked with</b>
+<br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,mysql,linux,git,github,js,nodejs,html,css&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,materialui,js,nodejs,mysql,go,java&theme=dark" alt="React, TypeScript, Redux, Material UI, JavaScript, Node.js, MySQL, Go, Java" />
 </a>
 
 </div>
